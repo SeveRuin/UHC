@@ -32,9 +32,9 @@ use sys\jordan\utils\GoldenHead;
 
 class Central extends PluginBase{
 
-	const PREFIX = TextFormat::RESET.TextFormat::DARK_GRAY.TextFormat::BOLD."[".TextFormat::RESET.TextFormat::BLUE."Walterion".TextFormat::DARK_GRAY.TextFormat::BOLD."]".TextFormat::RESET;
-	public static $BRAND_PREFIX = TextFormat::RESET.TextFormat::DARK_GRAY.TextFormat::BOLD."[".TextFormat::RESET.TextFormat::BLUE."Walterion".TextFormat::DARK_GRAY.TextFormat::BOLD."]".TextFormat::RESET;
-	public static $TWITTER = TextFormat::BLUE."@WalterionPE";
+	const PREFIX = TextFormat::RESET.TextFormat::DARK_GRAY.TextFormat::BOLD."[".TextFormat::RESET.TextFormat::BLUE."SeveRuin".TextFormat::DARK_GRAY.TextFormat::BOLD."]".TextFormat::RESET;
+	public static $BRAND_PREFIX = TextFormat::RESET.TextFormat::DARK_GRAY.TextFormat::BOLD."[".TextFormat::RESET.TextFormat::BLUE."SeveRuin".TextFormat::DARK_GRAY.TextFormat::BOLD."]".TextFormat::RESET;
+	public static $TWITTER = TextFormat::BLUE."@SeveRuin";
 
 	public $isBeta = true;
 
